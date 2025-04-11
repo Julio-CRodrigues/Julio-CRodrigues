@@ -1,8 +1,9 @@
 <h1 align="center">👋 Olá! Eu sou o Julio C. Rodrigues</h1>
 
 <p align="center">
-  <img src="https://github.com/Julio-CRodrigues/Julio-CRodrigues/blob/main/minha-foto.jpg" width="200" alt="Julio C. Rodrigues" style="border-radius: 50%;"/>
+  <img src="perfil.jpg" width="200" style="border-radius: 50%;" alt="Foto de Julio C. Rodrigues"/>
 </p>
+
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas | Focado em Back-End  
@@ -42,8 +43,15 @@
 
 ## 📬 Como me encontrar
 
-- ✉️ Email: juliocesarccr29@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/julio-cesar-rodrigues29
+<p align="left">
+  <a href="mailto:juliocesarcxz29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/julio-cesar-rodrigues29/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 ---
 
