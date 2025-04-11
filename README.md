@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Julio C. Rodrigues</h1>
 
-<p align="center">
-  <img src="perfil.jpg" width="200" style="border-radius: 50%;" alt="Foto de Julio C. Rodrigues"/>
-</p>
-
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas | Focado em Back-End  
